@@ -1,0 +1,305 @@
+			Ejercicio1: se imprimirá por pantalla lo siguiente:
+
+
+//iteración 1
+	i=1
+pantalla: 2
+
+//iteración 2
+	i=2
+pantalla = ø
+
+//iteración 3
+	i=3
+pantalla = 4
+
+fin del bucle y del ejercicio
+
+
+			Ejercicio 2: se imprimirá por pantalla lo siguiente:
+
+
+//iteración 1
+	i=1
+pantalla: ø
+
+//iteración 2
+	i=3
+pantalla: ø
+
+//iteración 3
+	i=5
+pantalla = ø
+fin del bucle y del ejercicio
+
+
+			Ejercicio 3: se imprimirá por pantalla lo siguiente:
+
+
+//iteración 1
+	i=1
+pantalla: 2
+
+//iteración 2
+	i=4
+pantalla: 3
+
+fin del bucle y del ejercicio
+
+
+			Ejercicio 4: se imprimirá por pantalla lo siguiente:
+//iteración 1
+	i=1
+pantalla: ø
+
+//iteración 2
+	i=3
+pantalla: ø
+
+//iteración 3
+	i=5
+pantalla = ø
+fin del bucle y del ejercicio
+
+			Ejercicio 5: se imprimirá por pantalla lo siguiente:
+//iteración 1
+	i=1
+	variable= 1
+pantalla: ø
+
+//iteración 2
+	i=2
+	variable= 2
+pantalla: 2
+
+//iteración 3
+	i=3
+	variable= 3
+pantalla = ø
+
+
+//iteración 4
+	i=4
+	variable= 4
+pantalla = 4
+
+//iteración 5
+	i=5
+	variable= 5
+pantalla = ø
+
+//iteración 6
+	i=6
+	variable= 6
+pantalla = 6
+
+fin del bucle y del ejercicio
+
+
+			Ejercicio 6: se imprimirá por pantalla lo siguiente:
+
+//iteración 1
+	i=1
+	variable= 1
+pantalla: 1
+
+//iteración 2
+	i=2
+	variable= 3
+pantalla: ø
+
+//iteración 3
+	i=3
+	variable= 5
+pantalla = 3
+
+
+//iteración 4
+	i=4
+	variable= 7
+pantalla = 4
+
+//iteración 5
+	i=5
+	variable= 9
+pantalla = 5
+
+//iteración 6
+	i=6
+	variable= 11
+pantalla = 6
+                   
+fin del bucle y del ejercicio         
+
+			Ejercicio 7 se imprimirá por pantalla lo siguiente:
+
+for(int i = 1; i <= 5; i++) {
+
+  if(i % 2 == 0) {
+    System.out.println(i - 1);
+
+   }             
+
+ if(i == 3) {
+	break;
+ }
+//iteración 1
+	i=1
+pantalla: ø
+
+//iteración 2
+	i=2
+pantalla: 1
+
+//iteración 3
+	i=3
+pantalla = ø
+fin del bucle y del ejercicio
+
+			Ejercicio 8 se imprimirá por pantalla lo siguiente:
+
+   for(int i = 1; i <= 5; i++) {
+	if(i % 2 == 0) {
+		System.out.println(i - 1);
+	}             
+	if(i == 3) {
+	continue;
+	}
+}
+
+//iteración 1
+	i=1
+pantalla: ø
+
+//iteración 2
+	i=2
+pantalla: 1
+
+//iteración 3
+	i=3
+pantalla = ø
+
+//iteración 4
+	i=4
+pantalla = 3
+
+//iteración 5
+	i=5
+pantalla = ø
+
+fin del bucle y del ejercicio
+
+			Ejercicio 9 se imprimirá por pantalla lo siguiente:
+
+//iteración 1 1er bucle
+	i=1
+	2do bucle
+		j=1
+		pantalla = 1
+		j = 2
+		pantalla = 1
+		j = 3
+		pantalla = ø(pega un salto al inicio del bucle con la clase continue)
+		j = 4
+		pantalla = 1
+		j = 5
+		pantalla = 1
+
+//iteración 2 1er bucle
+	i=2
+	2do bucle
+		j=1
+		pantalla = 2
+		j = 2
+		pantalla = 2
+		j = 3
+		pantalla =  ø(pega un salto al inicio del bucle con la clase continue)
+		j = 4
+		pantalla = 2
+		j = 5
+		pantalla = 2
+
+//iteración 3 1er bucle
+	i=3
+	2do bucle
+		j=1
+		pantalla = 3
+		j = 2
+		pantalla = 3
+		j = 3
+		pantalla = ø(pega un salto al inicio del bucle con la clase continue)
+		j = 4
+		pantalla = 3
+		j = 5
+		pantalla = 3
+
+//iteración 4
+	i=4
+	2do bucle
+		j=1
+		pantalla = 4
+		j = 2
+		pantalla= 4
+		j = 3
+		pantalla= 4
+		j = 4
+		pantalla= 4
+		j = 5
+		pantalla= 4
+pantalla = 45 (termina el bucle con la clase break)
+
+fin de los bucles y del ejercicio
+
+			Ejercicio 10 se imprimirá por pantalla lo siguiente
+
+//iteración 1
+	i=1
+pantalla: 1
+
+//iteración 2
+	i=3
+pantalla: 3
+
+//iteración 3
+	i=5
+pantalla = 5
+
+fin de los bucles y del ejercicio
+
+			Ejercicio 11 se imprimirá por pantalla lo siguiente
+
+//iteración 1
+	i=2
+pantalla: 2
+
+//iteración 2
+	i=4
+pantalla: 4
+
+//iteración 3
+	i=6
+pantalla = 6
+
+fin de los bucles y del ejercicio
+
+			Ejercicio 12 se imprimirá por pantalla lo siguiente
+
+//iteración 1
+	i=1
+pantalla: 1
+
+//iteración 2
+	i=4
+pantalla: 4
+
+la variable i después pasa a valer 6 por lo que sale del bucle...
+
+fin de los bucles y del ejercicio
+
+
+ 
+
+
+
+
+                              
