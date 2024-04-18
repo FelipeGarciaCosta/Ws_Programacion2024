@@ -14,7 +14,7 @@ public class mainActividad14 {
 		equipos[1] = lista2;
 		
 		for (Entidad_equipo e : equipos) {
-			pedirDatos(e);
+			pedirDatos(e, sc);
 			
 			System.out.println(e.toString());
 			e.mostrarJugadores();
@@ -26,13 +26,13 @@ public class mainActividad14 {
 		}
 		
 		System.out.println("Los equipos son iguales: " + lista1.equiposIguales(lista2));
-		 
 		
 		
+		sc.close();
 	}
 	
-	public static void pedirDatos(Entidad_equipo equipo) {
-		Scanner sc = new Scanner(System.in);
+	public static void pedirDatos(Entidad_equipo equipo,Scanner sc ) {
+
 		System.out.println("Introduzca nombre de la lista: ");
 		equipo.nombre = sc.nextLine();
 		System.out.println("cuantos jugadores quiere añadir a su lista: ");
